@@ -5,7 +5,7 @@ using namespace std;
     while (i<=69)
     {
         sum = sum + 1/i;
-        i += 1;
+        i++;
     }
     cout << sum;
     return 0;
